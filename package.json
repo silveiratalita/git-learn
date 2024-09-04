@@ -1,7 +1,7 @@
 {
-  "name": "day-api-node",
+  "name": "git-learn",
   "version": "1.0.0",
-  "description": "Aula para os alunos da escola DNC - Minha primeira API em Node Js.",
+  "description": "Adiciona tasks automaticamente ao board.",
   "main": "index.js",
   "scripts": {
     "test": "test",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "repositori@git"
+    "url": "https://github.com/silveiratalita/git-learn"
   },
   "author": "Talita Silveira",
   "license": "MIT",
