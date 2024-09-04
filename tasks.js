@@ -26,7 +26,7 @@
 //   ]
 // };
 module.exports = {
-  ids: 4,
+  ids: 5,
   tasks: [
     {
       id: 3,
@@ -44,5 +44,14 @@ module.exports = {
       dueDate: "2024-08-20",
       completed: true,
     },
+{
+      id: 5,
+      title:
+        "Clonar repositório de automação do board do time SWAT para inseir novos parâmetros.",
+      description: "executar o git clone e fazer alterações no objeto tasks.",
+      dueDate: "2024-08-20",
+      completed: true,
+    },
+
   ],
 };
