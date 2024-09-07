@@ -26,7 +26,7 @@
 //   ]
 // };
 module.exports = {
-  ids: 4,
+  ids: 5,
   tasks: [
     {
       id: 3,
@@ -44,5 +44,14 @@ module.exports = {
       dueDate: "2024-08-20",
       completed: true,
     },
+     {
+      id: 5,
+      title: "Fazer Miojo",
+      description: "Editar o arquivo tasks.js para incluir uma nova tarefa no objeto tasks.",
+      dueDate: "2024-09-07",
+      completed: false,
+      cardId: "SWAT-20240907133904"
+    }
+
   ],
 };
